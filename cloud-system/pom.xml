@@ -12,7 +12,7 @@
     <artifactId>cloud-system</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>cloud-system-nacos</module>
+        <module>cloud-system-provider</module>
         <module>cloud-system-config</module>
     </modules>
 
