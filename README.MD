@@ -21,6 +21,7 @@ Hystrix | 融断 |
 Config | 分布式配置中心组件 | 
 Gateway | 服务网关 | 
 Bus | 消息总线 | 
+monitor  | 集成进vue前端 | 
 
 # 环境
 这里会有3个环境

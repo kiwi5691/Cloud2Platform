@@ -12,15 +12,16 @@
     <artifactId>cloud-auth</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>authentication-client</module>
+        <module>client</module>
         <module>authentication-server</module>
+        <module>cloud-sso</module>
     </modules>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
-            <version>2.1.8.RELEASE</version>
+            <version>2.1.4.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.security.oauth</groupId>
